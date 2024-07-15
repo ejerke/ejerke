@@ -1,6 +1,6 @@
 ## Hello there! (General Kenobi...)
 - I'm interested in writing optimal and performant code!
-- I'm currently writing a backend application with GO
+- Currently writing a RESTful API with GO
 - Would like to learn Zig next
 
 <!--
