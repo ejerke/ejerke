@@ -1,7 +1,7 @@
-## Hi!
+## Hello there! (General Kenobi...)
 - I'm interested in writing optimal and performant code!
 - I'm currently writing a backend application with GO
-- 
+- Would like to learn Zig next
 
 <!--
 **ejerke/ejerke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
