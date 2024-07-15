@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi!
+- I'm interested in writing optimal and performant code!
+- I'm currently writing a backend application with GO
+- 
 
 <!--
 **ejerke/ejerke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
